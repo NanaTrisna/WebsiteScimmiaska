@@ -1,6 +1,4 @@
-+-----------------------------+
-|         admin panel         |
-+-----------------------------+
-|  email   : admin@admin.com  |
-|  pass    : admin123         |
-+-----------------------------+
+ "User login (Admin)"
+
+  email   : trisna.gumilang420@gmail.com  
+  pass    : gumilang       
